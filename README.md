@@ -1,8 +1,10 @@
 # BMA-PDAC-Model
 
-This is the repository of BMA .json files for boolean networks of Pancreatic ductal adenocarcinoma (PDAC) that includes pancreatic cancer cell (PCC) connected with pancreatic stellate cell (PSC) and macrophage (that receive the input from helpter T-cell) which share intercellular environment (to which substances are secreted and detected). 
+This is the repository of files for boolean networks of Pancreatic ductal adenocarcinoma (PDAC) that includes pancreatic cancer cell (PCC) connected with pancreatic stellate cell (PSC) and macrophage (that receive the input from helpter T-cell) which share intercellular environment (to which substances are secreted and detected). 
 
-The files include 
+We specifically studied the effect of two proteins, HIF-1𝝰 and HIF-2𝝰, for the phenotypes of PCC in the PDAC tumor environment and possible therapy targeting these proteins. The written text to describe the model development and the result intepretation is in this github (folder 6)
+
+The files included here are: 
 
 1. The final connected completely boolean networks
 2. The final connected boolean networks with all phenotype nodes of PCC and PSC being set to range from 0-3
@@ -17,5 +19,9 @@ The files include
 5. The output of drugging tests (no drug (N), single HIF1A inhibition (S), and double HIF1A/HIF2A inhibition (D)) from BMA in .csv file with 20 steps.
   - Run-01: the output when using the final connected completely boolean networks (file 1.)
   - Run-03: the output when usign the final connected boolean networks with all phenotype nodes of PCC and PSC being set to range from 0-3 (file 2.)
+
+6. The model development and the result intepretation report
+  
+This is the project as part of MSc Systems Biology course at University of Cambridge, and contributed by Aadam Basrai, Kishen Joshi, Pannaree Boonyuen & Tunyang Xie.
   
  
