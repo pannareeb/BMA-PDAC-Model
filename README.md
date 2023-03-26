@@ -22,6 +22,6 @@ The files included here are:
 
 
   
-This is the project as part of MSc Systems Biology course at University of Cambridge, and contributed by Aadam Basrai, Kishen Joshi, Pannaree Boonyuen & Tunyang Xie.
+This project is part of MSc Systems Biology course at University of Cambridge (2022/2023) , and contributed by Aadam Basrai, Kishen Joshi, Pannaree Boonyuen & Tunyang Xie (MSc students at University of Cambridge).
   
  
