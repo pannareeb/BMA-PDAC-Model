@@ -20,7 +20,7 @@ The files included here are:
   - Run-01: the output when using the final connected completely boolean networks (file 1.)
   - Run-03: the output when usign the final connected boolean networks with all phenotype nodes of PCC and PSC being set to range from 0-3 (file 2.)
 
-6. The model development and the result intepretation report
+
   
 This is the project as part of MSc Systems Biology course at University of Cambridge, and contributed by Aadam Basrai, Kishen Joshi, Pannaree Boonyuen & Tunyang Xie.
   
