@@ -2,7 +2,7 @@
 
 This is the repository of files for boolean networks of Pancreatic ductal adenocarcinoma (PDAC) that includes pancreatic cancer cell (PCC) connected with pancreatic stellate cell (PSC) and macrophage (that receive the input from helpter T-cell) which share intercellular environment (to which substances are secreted and detected). 
 
-We specifically studied the effect of two proteins, HIF-1𝝰 and HIF-2𝝰, for the phenotypes of PCC in the PDAC tumor environment and possible therapy targeting these proteins. The written text to describe the model development and the result intepretation is in this github (folder 6)
+We specifically studied the effect of two proteins, HIF-1𝝰 and HIF-2𝝰, for the phenotypes of PCC and PSC in the PDAC tumor environment and possible therapy targeting these proteins. The written text to describe the model development and the result intepretation is in this github (folder 6)
 
 The files included here are: 
 
@@ -22,6 +22,6 @@ The files included here are:
 
 
   
-This project is part of MSc Systems Biology course at University of Cambridge (2022/2023) , and contributed by Aadam Basrai, Kishen Joshi, Pannaree Boonyuen & Tunyang Xie (MSc students at University of Cambridge).
+This 1-week project is part of MSc Systems Biology course at University of Cambridge (2022/2023), and contributed by Aadam Basrai, Kishen Joshi, Pannaree Boonyuen & Tunyang Xie (MSc students at University of Cambridge).
   
  
